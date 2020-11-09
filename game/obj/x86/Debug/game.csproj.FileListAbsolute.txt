@@ -1,0 +1,68 @@
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\bin\Debug\game.exe
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\bin\Debug\game.pdb
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\obj\x86\Debug\game.exe
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\obj\x86\Debug\game.pdb
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\game.exe
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\game.pdb
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\bin\Debug\game.exe
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\bin\Debug\game.pdb
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\game.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Lable.resources
+C:\Users\User\Documents\Мои източници на данни\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+G:\gameE\game\obj\x86\Debug\Interop.WMPLib.dll
+G:\gameE\game\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\gameE\game\obj\x86\Debug\game.csproj.ResolveComReference.cache
+G:\gameE\game\obj\x86\Debug\game.exe
+G:\gameE\game\obj\x86\Debug\game.pdb
+G:\gameE\game\bin\Debug\game.exe
+G:\gameE\game\bin\Debug\game.pdb
+G:\gameE\game\bin\Debug\Interop.WMPLib.dll
+G:\gameE\game\bin\Debug\AxInterop.WMPLib.dll
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Lable.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+G:\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\gameE\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+C:\Задачи C#\gameE\game\obj\x86\Debug\Interop.WMPLib.dll
+C:\Задачи C#\gameE\game\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Задачи C#\gameE\game\obj\x86\Debug\game.csproj.ResolveComReference.cache
+C:\Задачи C#\gameE\game\obj\x86\Debug\game.exe
+C:\Задачи C#\gameE\game\obj\x86\Debug\game.pdb
+C:\Задачи C#\gameE\game\bin\Debug\game.exe
+C:\Задачи C#\gameE\game\bin\Debug\game.pdb
+C:\Задачи C#\gameE\game\bin\Debug\Interop.WMPLib.dll
+C:\Задачи C#\gameE\game\bin\Debug\AxInterop.WMPLib.dll
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Lable.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Задачи C#\gameE\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
